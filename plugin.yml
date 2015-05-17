@@ -1,0 +1,7 @@
+name: BungeePlugin
+main: me.markus.bungeeplugin.BungeePlugin
+version: 0.0.1
+commands:
+  test:
+    aliases: [t]
+  test:
